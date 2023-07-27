@@ -8,5 +8,8 @@ func TestTools_RandomString(t *testing.T) {
 	if len(s) != 10 {
 		t.Error("wrong leght")
 	}
+		ede
+
+
 
 }
