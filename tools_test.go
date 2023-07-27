@@ -10,6 +10,6 @@ func TestTools_RandomString(t *testing.T) {
 	}
 		ede
 
-
-
+someme
+de
 }
