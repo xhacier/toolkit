@@ -2,6 +2,13 @@ package toolkit
 
 import "testing"
 
+//
+
+
+if(){
+	some data here
+}
+
 func TestTools_RandomString(t *testing.T) {
 	var testTools Tools
 	s := testTools.RandomString(10)
