@@ -3,7 +3,7 @@ package toolkit
 import "testing"
 
 //
-
+"some more data"
 
 if(){
 	some data here
@@ -15,12 +15,4 @@ func TestTools_RandomString(t *testing.T) {
 	if len(s) != 10 {
 		t.Error("wrong leght")
 	}
-		ede
-
-someme
-de
-
-
-
-primero este
 }
