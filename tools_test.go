@@ -15,12 +15,4 @@ func TestTools_RandomString(t *testing.T) {
 	if len(s) != 10 {
 		t.Error("wrong leght")
 	}
-<<<<<<< HEAD
-		ede
-
-someme
-de
-=======
-
->>>>>>> parent of 211e3ea (some changes)
 }
